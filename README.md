@@ -17,7 +17,7 @@
 
 # Instruções claras sobre como configurar e executar a aplicação
 - Deve ser instalado um sensor ultrassônico em cima de cada cadeira (a uma distância máxima de 3 metros)
-- A distância mínima(de onde está o sensor até a cadeira) padrão é de 250 cm(2 m) e deve ser aterada, caso necessário, na linha 5 do código fonte antes da execução do programa
+- A distância mínima(de onde está o sensor até a cadeira) padrão é de 250 cm(2,5 m) e deve ser aterada, caso necessário, na linha 5 do código fonte antes da execução do programa
 - O tempo para mudança de estado(ocupado/livre) padrão é de 5 segundos e deve ser aterado, caso necessário, na linha 7 do código fonte antes da execução do programa
 - Após estabelecidas as medidas, se um assento desocupado permanecer por 5 segundos(tempo padrão) ocupado ele alterará seu estado, o mesmo aplica-se ao contrário, evitando, assim, falsas trocas de ocupado para desocupado
 - A cada segundo serão atualizados os dados, emitindo em tempo real o nínel de ocupação
