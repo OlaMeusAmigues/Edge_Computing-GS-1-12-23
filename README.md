@@ -1,8 +1,8 @@
 # Breve descrição do problema de saúde abordado
-- O desafio enfrentado nas filas é um dilema antigo; quem nunca achou que passaria por  um atendimento ágil e, no entanto, viu-se consumido por horas em uma agência bancária ou em um órgão público, lidando com uma variedade de questões tributárias e burocráticas?
-- A recorrência desses eventos é tão comum que notícias semelhantes tornaram-se quase corriqueiras, como o caso de uma mulher de 62 anos que foi indenizada em R$8 mil após passar mais de cinco horas na fila do banco.
-- Contudo, é notório que a compensação financeira, como observada nesse exemplo, nem sempre reflete de maneira justa o impacto causado pela espera. Em situações críticas, como filas em pronto-socorros, a demora no atendimento ou falhas na triagem não apenas comprometem o tempo do indivíduo, mas, em casos extremos, podem resultar na perda de vidas.
-- Assim, o problema transcende a mera inconveniência e assume proporções mais graves, destacando a necessidade não apenas de ressarcimentos monetários, mas de medidas efetivas para otimizar os processos de atendimento com aplicação da tecnologia, especialmente em ambientes cruciais como os serviços de saúde.
+  O desafio enfrentado nas filas é um dilema antigo; quem nunca achou que passaria por  um atendimento ágil e, no entanto, viu-se consumido por horas em uma agência bancária ou em um órgão público, lidando com uma variedade de questões tributárias e burocráticas?
+  A recorrência desses eventos é tão comum que notícias semelhantes tornaram-se quase corriqueiras, como o caso de uma mulher de 62 anos que foi indenizada em R$8 mil após passar mais de cinco horas na fila do banco.
+  Contudo, é notório que a compensação financeira, como observada nesse exemplo, nem sempre reflete de maneira justa o impacto causado pela espera. Em situações críticas, como filas em pronto-socorros, a demora no atendimento ou falhas na triagem não apenas comprometem o tempo do indivíduo, mas, em casos extremos, podem resultar na perda de vidas.
+  Assim, o problema transcende a mera inconveniência e assume proporções mais graves, destacando a necessidade não apenas de ressarcimentos monetários, mas de medidas efetivas para otimizar os processos de atendimento com aplicação da tecnologia, especialmente em ambientes cruciais como os serviços de saúde.
 
 
 
